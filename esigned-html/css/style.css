@@ -119,18 +119,16 @@ body {
   background-color: #ffffff;
 }
 
-.header_section a:hover
-{
-  color: blue;
-}
 
-/*
+
+
 a:hover,
 a:focus {
   color: initial;
-  color: #000000;
+  color: grey;
+  font-size: 20px;
 }
-  */
+
 
 .btn,
 .btn:focus {
