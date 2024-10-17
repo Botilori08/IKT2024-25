@@ -124,11 +124,9 @@ body {
 
 
 
-a:hover,
-a:focus {
-  color: initial;
-  color: grey;
-  font-size: 20px;
+.container-fluid a:hover{
+  font-size: 18px;
+  color: red;
 }
 
 
