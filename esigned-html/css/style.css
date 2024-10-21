@@ -55,7 +55,7 @@ body {
   top: 50%;
   width: 40px;
   height: 1px;
-  background-color: #fec016;
+  background-color: #1143cc;
 }
 
 .heading_container h2::before {
@@ -122,6 +122,32 @@ body {
 }
 
 
+#headline
+{
+  margin-top:30px;
+}
+
+#kep2
+{
+  margin-top: 20px;
+}
+
+.kreativImg
+{
+  height: 80%;
+  width: 80%;
+
+}
+
+#kreativCime
+{
+  margin-bottom: 30px;
+}
+
+p
+{
+  margin-top: 15px;
+}
 
 
 .container-fluid a:hover{
@@ -376,7 +402,6 @@ body {
 .work_section .work_container .box img {
   width: 100%;
 }
-
 .work_section .work_container .box.b-2, .work_section .work_container .box.b-3 {
   width: 43.5%;
 }
