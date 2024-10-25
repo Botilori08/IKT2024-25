@@ -739,3 +739,30 @@ p
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+.do_marketing{
+  margin-top:30px;
+}
+.do_development{
+  margin-top:50px;
+}
+.html5{
+  text-align: center;
+  margin: 20px;
+}
+.html5 img{
+  width: 300px;
+}
+
+.html5_p{
+  text-align: justify;
+}
+
+.css_img{
+  width: 300px;
+  height: 300px;
+}
+
+.do_wordpress{
+  margin-top: 50px;
+}
